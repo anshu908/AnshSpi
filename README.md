@@ -1,6 +1,6 @@
-# 𝔸𝕟𝕤𝕙𝕊𝕡𝕚
 
-── ❖ | ᴧηsʜ ꭙ sᴧɴᴧᴛᴧɴɪ | ❖ ──
+
+## ── ❖ | ᴧηsʜ ꭙ sᴧɴᴧᴛᴧɴɪ | ❖ ──
 
 ## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
 
@@ -22,4 +22,4 @@ To set up the project locally:
    git clone https://github.com/anshu908/AnshSpi.git
    cd AnshSpi
 
-<img src="
+
