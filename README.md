@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
 
-**Anshsip** is a [brief description of the project, e.g., web application/tool/platform] aimed at [the purpose or problem it solves]. This project is designed to [specific features or goals].
+**ᴧηsʜsɪᴘ** ɪs ᴧ ᴄυꝛꝛєηᴄʏ ᴄᴧʟᴄυʟᴧᴛσꝛ ᴧηᴅ ʟσᴧη ᴄᴧʟᴄυʟᴧᴛσꝛ ᴧηᴅ sɪᴘ ᴄᴧʟᴄυʟᴧᴛσꝛ ᴡєʙsɪᴛє.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -38,8 +38,7 @@
 
 ## Technologies Used
 
-- [Programming language or framework, e.g., Python, React]
-- [Database, if any, e.g., MySQL, MongoDB]
+- [Programming language or framework, e.g., html, css, js, vite, ts, React]
 - [Other tools, libraries, or frameworks]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -84,7 +83,7 @@
 ![Screenshot](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
 
 ### Live Demo
-[Click here to access the demo](ansh)
+[Click here to access the demo](https://ansh-sip.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -115,9 +114,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or feedback, feel free to reach out to:
-
-- **Author**: Anshu
-- **Email**: [anshppt19@gmail.com]
+- **Author**: 𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗬 [𝗔𝗡𝗦𝗛](https://www.instagram.com/anshopi__/)
+- **Email**: anshppt19@gmail.com
 - **GitHub**: [anshu908](https://github.com/anshu908)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
