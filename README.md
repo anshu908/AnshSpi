@@ -70,8 +70,8 @@
 
 ## Usage
 
-1. Open the application in your browser at `http://localhost:3000`.
-2. [Instructions on how to use the application or its key features.]
+1. Open the application in your browser at `http://localhost:5173`.
+2. Instructions on how to use the application or its key features.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
