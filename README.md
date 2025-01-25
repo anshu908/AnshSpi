@@ -77,10 +77,8 @@
 
 ---
 
-## Screenshot and Demo
 
-### Screenshot
-![Screenshot](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
+<img src="https://envs.sh/Nmh.jpg">
 
 ### Live Demo
 [Click here to access the demo](https://ansh-sip.vercel.app/)
