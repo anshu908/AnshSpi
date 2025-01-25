@@ -53,7 +53,7 @@
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Anshsip
+   cd project
    ```
 3. Install dependencies:
    ```bash
@@ -61,7 +61,7 @@
    ```
 4. Run the application:
    ```bash
-   npm start
+   npm run dev
    ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
